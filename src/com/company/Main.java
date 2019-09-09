@@ -22,3 +22,4 @@ public class Main {
         System.out.println("The total of all 10 numbers is " + total);
     }
 }
+
