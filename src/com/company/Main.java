@@ -1,6 +1,7 @@
 package com.company;
 /*Loop completion activity
-The following program should allow the users to input 10 integers and output the total. Please finish it.*/
+The following program should allow the users to input 10 integers and output the total. Please finish it.
+https://github.com/ericagleaton/jbcsep19_EJG_LoopCompletionActivity.git*/
 
 import java.util.Scanner;
 
